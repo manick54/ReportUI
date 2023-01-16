@@ -1,0 +1,20 @@
+export var reportList =
+[
+    {
+        "reportName":"Report1"
+    },{
+        "reportName":"Report2"
+    },{
+        "reportName":"Report3"
+    },{
+        "reportName":"Report4"
+    },{
+        "reportName":"Report5"
+    },{
+        "reportName":"Report6"
+    },{
+        "reportName":"Report7"
+    },{
+        "reportName":"Report8"
+    }
+]
